@@ -1,0 +1,6 @@
+{
+  "name": "Headway Broker Review Hub",
+  "description": "An authoritative, high-converting SEO-optimized Headway broker review and interactive trading calculator portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
