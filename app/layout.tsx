@@ -2,8 +2,8 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'My Google AI Studio App',
-  description: 'My Google AI Studio App',
+  title: 'Headway Broker Review 2026 | Best Forex Broker',
+  description: 'Looking for the best Forex broker? Read our honest Headway Broker Review 2026. Discover their $1 minimum deposit, unlimited leverage, and tight spreads!',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
